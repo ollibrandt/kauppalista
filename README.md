@@ -1,2 +1,2 @@
 # kauppalista
-Kauppalista kaupassa käymiseen.
+Kauppalista kaupassa käymiseen juu.
